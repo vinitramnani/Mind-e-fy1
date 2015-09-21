@@ -13,7 +13,7 @@ public class HostelApplicationActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_hostel_application);
     }
-
+// xzcxzcxzccz
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
